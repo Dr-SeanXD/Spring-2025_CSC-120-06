@@ -1,0 +1,19 @@
+1. Store the name of the purchaser into a string variable. 
+
+2. Store the prices of each item into separate 4 double variables. 
+
+3. Store the number of items into an integer variable.
+
+4. Store the tax rate into a double variable.
+
+5. Calculate the subtotal by adding the prices of each item.
+
+6. Declare and calculate the tax owed. The drink is subtracted from the calculation since the instruction specifies that the purchaser is charged tax on everything "except the energy drink."
+
+7. Calculate the average cost by dividing the subtotal with the number of items.
+
+8. Use the setprecision function from the iomanip file to print double variables down to 2 decimal places.
+
+9. Print the name of the purchaser and the cost of each item.
+
+10. Print the subtotal, tax owed, total owed, and the average cost.
