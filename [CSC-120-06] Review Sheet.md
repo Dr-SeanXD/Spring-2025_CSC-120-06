@@ -8,7 +8,7 @@
 
 - Source Code: The code you're writing
 
-- Pre-Processor: Including "codes" in your source code (i.e. ```#include <iostream>```) 
+- Pre-Processor: Including "codes" in your source code (i.e. ```#include <iostream>```)
 
 - Process: Source Code -> Pre-Processor -> Compiler -> Binary Code -> Linker -> Executable File
 
@@ -320,7 +320,7 @@ int main() {
 	result = x == y;
 
 	/*
-	x == y is a conditional statement, which will return either true 
+	x == y is a conditional statement, which will return either true
 	or false.
 	*/
 
@@ -392,6 +392,10 @@ int main() {
 	for (int i = 0; i<10; i++) {
 		cout << "My name is Sean!" << endl;
 	}
+
+	//Initialization: int i = 0;
+	//How many times? (Condition): i<10;
+	//Plus 1 (or other statements): i++
 }
 ```
 
