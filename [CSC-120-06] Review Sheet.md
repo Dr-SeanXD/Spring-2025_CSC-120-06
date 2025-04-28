@@ -451,7 +451,7 @@ void add() {
 }
 ```
 
-- Functions that doesn't return a value are declared as "void"
+- Functions that don't return a value are declared as "void"
 
 - Functions that return values are declared whatever value they return
 
